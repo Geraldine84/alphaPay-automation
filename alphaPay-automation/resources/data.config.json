@@ -1,0 +1,19 @@
+{
+	"Login": {
+		"valid_email": "kakaageraldine@gmail.com",
+		"valid_pw": "Geraldine54!",
+		"valid_fullname": "Chris Udoka"
+	},
+	
+	"ValidLogin": {
+	"email": "testautomation@yopmail.com",
+	"pw": "Geraldine54!"
+	},
+	
+	"ChangePassword": {
+	"new_pw": "Bankole1!",
+	"email": "test12345@yopmail.com",
+	"pw": "Geraldine54!"
+	}
+	
+}
